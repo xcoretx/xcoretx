@@ -15,7 +15,8 @@ Focused on the journey—not just the results.
 
 ## Certifications
 
-[Juniper Networks Certified Associate, Junos (JNCIA-Junos)](https://www.credly.com/badges/af22decf-39d7-4433-97b6-312b701c83d4)\
+<a href="https://www.credly.com/badges/af22decf-39d7-4433-97b6-312b701c83d4" target="_blank">Juniper Networks Certified Associate, Junos (JNCIA-Junos)</a>
+
 [Cisco Certified Network Associate (CCNA)](https://www.credly.com/badges/6eab8ae5-4bf1-4c2d-a68f-70b89b74f566)\
 [Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000600912/d8fecvn7x5)\
 [CompTIA A+](https://www.credly.com/badges/8bbac9d3-ac72-4d43-8c6d-edfd592d4928)\
